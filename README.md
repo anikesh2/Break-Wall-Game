@@ -1,4 +1,4 @@
-# Break Wall Game
+# BBreak Wall Game
 A simple GUI applications built using Java awt, Sswing </br>
 Classic Break-wall Game, here's the screenshot
 <h2>
